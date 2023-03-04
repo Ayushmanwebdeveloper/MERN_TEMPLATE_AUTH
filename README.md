@@ -1,5 +1,5 @@
 <h1>MERN Template with Authentication</h1>
-
+[MERN_TEMPLATE_SCREENCAST.webm](https://user-images.githubusercontent.com/91346165/222915755-99f639fc-dd0b-4cbc-971e-14154d325b83.webm)
 This is a basic MERN template that includes authentication using JSON Web Tokens (JWT). It provides a starting point for building a full-stack web application using the MERN stack (MongoDB, Express, React, Node.js). Features User authentication using JSON Web Tokens (JWT) Protected routes that require authentication MongoDB integration using Mongoose Express server with API routes React front-end with a basic login/signup interface Redux state management
 
 <h2>Installation</h2>
